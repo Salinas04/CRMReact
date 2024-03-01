@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Antonio",
+      "empresa": "Salinas04",
+      "email": "antoniosalinamoreno@gmail.com",
+      "telefono": "664042579",
+      "notas": "!Hola mundo¡",
+      "id": 6
+    }
+  ]
+}
